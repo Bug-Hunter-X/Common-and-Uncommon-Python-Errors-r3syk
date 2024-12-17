@@ -1,0 +1,1 @@
+This repository contains examples of common and uncommon errors in Python. The 'bug.py' file demonstrates the errors, while 'bugSolution.py' provides solutions or workarounds.
